@@ -1,0 +1,7 @@
+main/mrcoordinator
+main/mrworker
+main/mrsequential
+main/mr-tmp/
+mrapps/*.so
+*.dSYM/
+mr-out-*
